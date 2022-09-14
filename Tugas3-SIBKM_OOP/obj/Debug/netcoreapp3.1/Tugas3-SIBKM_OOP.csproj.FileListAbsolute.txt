@@ -1,0 +1,14 @@
+F:\perkuliahan\SI METRODATA\TUGAS\Tugas3-SIBKM_OOP\Tugas3-SIBKM_OOP\obj\Debug\netcoreapp3.1\Tugas3-SIBKM_OOP.csproj.AssemblyReference.cache
+F:\perkuliahan\SI METRODATA\TUGAS\Tugas3-SIBKM_OOP\Tugas3-SIBKM_OOP\obj\Debug\netcoreapp3.1\Tugas3-SIBKM_OOP.GeneratedMSBuildEditorConfig.editorconfig
+F:\perkuliahan\SI METRODATA\TUGAS\Tugas3-SIBKM_OOP\Tugas3-SIBKM_OOP\obj\Debug\netcoreapp3.1\Tugas3-SIBKM_OOP.AssemblyInfoInputs.cache
+F:\perkuliahan\SI METRODATA\TUGAS\Tugas3-SIBKM_OOP\Tugas3-SIBKM_OOP\obj\Debug\netcoreapp3.1\Tugas3-SIBKM_OOP.AssemblyInfo.cs
+F:\perkuliahan\SI METRODATA\TUGAS\Tugas3-SIBKM_OOP\Tugas3-SIBKM_OOP\obj\Debug\netcoreapp3.1\Tugas3-SIBKM_OOP.csproj.CoreCompileInputs.cache
+F:\perkuliahan\SI METRODATA\TUGAS\Tugas3-SIBKM_OOP\Tugas3-SIBKM_OOP\bin\Debug\netcoreapp3.1\Tugas3-SIBKM_OOP.exe
+F:\perkuliahan\SI METRODATA\TUGAS\Tugas3-SIBKM_OOP\Tugas3-SIBKM_OOP\bin\Debug\netcoreapp3.1\Tugas3-SIBKM_OOP.deps.json
+F:\perkuliahan\SI METRODATA\TUGAS\Tugas3-SIBKM_OOP\Tugas3-SIBKM_OOP\bin\Debug\netcoreapp3.1\Tugas3-SIBKM_OOP.runtimeconfig.json
+F:\perkuliahan\SI METRODATA\TUGAS\Tugas3-SIBKM_OOP\Tugas3-SIBKM_OOP\bin\Debug\netcoreapp3.1\Tugas3-SIBKM_OOP.runtimeconfig.dev.json
+F:\perkuliahan\SI METRODATA\TUGAS\Tugas3-SIBKM_OOP\Tugas3-SIBKM_OOP\bin\Debug\netcoreapp3.1\Tugas3-SIBKM_OOP.dll
+F:\perkuliahan\SI METRODATA\TUGAS\Tugas3-SIBKM_OOP\Tugas3-SIBKM_OOP\bin\Debug\netcoreapp3.1\Tugas3-SIBKM_OOP.pdb
+F:\perkuliahan\SI METRODATA\TUGAS\Tugas3-SIBKM_OOP\Tugas3-SIBKM_OOP\obj\Debug\netcoreapp3.1\Tugas3-SIBKM_OOP.dll
+F:\perkuliahan\SI METRODATA\TUGAS\Tugas3-SIBKM_OOP\Tugas3-SIBKM_OOP\obj\Debug\netcoreapp3.1\Tugas3-SIBKM_OOP.pdb
+F:\perkuliahan\SI METRODATA\TUGAS\Tugas3-SIBKM_OOP\Tugas3-SIBKM_OOP\obj\Debug\netcoreapp3.1\Tugas3-SIBKM_OOP.genruntimeconfig.cache
